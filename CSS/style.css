@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/fondo.jpg");
+    background-image: url("https://github.com/brendacitalan/brendacitalan.github.io/blob/main/fondo.jpg?raw=true");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -149,7 +149,7 @@ nav ul li:nth-child(4) {
 /* Estilo básico para el body */
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/fondo.jpg");
+    background-image: url("https://github.com/brendacitalan/brendacitalan.github.io/blob/main/fondo.jpg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
