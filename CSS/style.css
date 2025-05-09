@@ -92,6 +92,28 @@ nav ul li:hover{background: #f87edb;}
         height: 100vh;
         font-size: 1.6rem;
     }
+    .boton_menu{
+        background-image: url('menu.png');
+        background-color: #d699f8;
+        background-repeat: no-repeat;
+        height: 30px;
+        width: 30px;
+        background-size: 30px 30px;
+        background-position: center;
+    }
+    button{
+        margin: 5px;
+        border: none;
+        margin: 10px 10px 10px 20px;
+    }
+/*con esta clase abro y cierro el menu con celular*/
+.abrir_menu{
+    background: rgba(30,30,30,0.6);
+    backdrop-filter: blur(2px);
+    transform: translate(0%);
+    width: 50%;
+    transition: 0.5s;
+}
 }
 nav ul li a {
     display: block;
