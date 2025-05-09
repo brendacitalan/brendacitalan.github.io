@@ -53,7 +53,7 @@ nav ul li:hover{background: #f87edb;}
         text-align: left;
     }
     .boton_menu{
-        background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/menu.png");
+        background-image: url('menu.png');
         background-color: #d699f8;
         background-repeat: no-repeat;
         height: 30px;
@@ -76,7 +76,7 @@ nav ul li:hover{background: #f87edb;}
 }
 /*con esta clase cambio las barras po una x*/
 .colocar_x{
-    background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/menu.png");
+    background-image: url('menu.png');
     background-color: #d699f8;
     background-repeat: no-repeat;
     height: 30px;
