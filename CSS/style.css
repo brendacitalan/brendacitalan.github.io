@@ -212,7 +212,7 @@ nav ul li a:hover {
 
 /* Estilos para la galería */
 .galeria {
-    background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/IMG/fondo2.jpg");   
+    background-image: url('fondo.jpg');   
     background: rgba(0, 0, 0, 0.5);  
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -341,7 +341,7 @@ ul li {
     }
 }
 .inicio{
-    background-image: url("C:/Users/crist/OneDrive/Desktop/paginaweb/IMG/fondo2.jpg");    
+    background-image: url('fondo.jpg');    
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
