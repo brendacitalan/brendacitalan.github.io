@@ -149,7 +149,7 @@ nav ul li:nth-child(4) {
 /* Estilo básico para el body */
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url("fondo.jpg");
+    background-image: url('fondo.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
