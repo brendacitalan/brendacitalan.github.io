@@ -234,7 +234,7 @@ nav ul li a:hover {
 
 /* Estilos para la galería */
 .galeria {
-    background-image: url('fondo.jpg');
+    background-image: url("fondo.jpg");
     background: rgba(0, 0, 0, 0.5);  
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
